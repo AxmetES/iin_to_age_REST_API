@@ -1,0 +1,6 @@
+.venv
+.idea
+/iin_to_age/__pycache__
+/iin_to_age/migrations/__pycache__
+/api_iin/__pycache__
+db.sqlite3
