@@ -1,10 +1,10 @@
-##IIN create and get defined age.
+## IIN create and get defined age.
 Project as test for a job.
 
-##get start
+## Get start
 install all requirements from ```requirements.txt```
 
-##using
+## Using
 POST requests on ```/http://127.0.0.1:8000/api/people/```
 with ```data = {'iin':'821119301118'}```
 
